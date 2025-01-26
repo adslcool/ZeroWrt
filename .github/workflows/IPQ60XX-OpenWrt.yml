@@ -11,7 +11,7 @@ env:
   CONFIG_FILE: configs/ipq60xx.config
   DIY_SCRIPT: diy/diy-ipq.sh
   CACHE_TOOLCHAIN: true
-  UPLOAD_BIN_DIR: false
+  UPLOAD_BIN_DIR: true
   FIRMWARE_RELEASE: true
   FIRMWARE_TAG: IPQ60XX
   TZ: Asia/Shanghai
